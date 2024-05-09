@@ -32,7 +32,7 @@ My landing page is designed to provide visitors with an immersive experience int
 
 ## Screenshots
 
-![Screenshot 1](/src/images/homepage.png)
+![Screenshot 1](/assets/homePageRealEstate.png)
 *Screenshot 1: Overview of the landing page.*
 
 
