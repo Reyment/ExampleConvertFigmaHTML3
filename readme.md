@@ -49,7 +49,7 @@ My landing page is designed to provide visitors with an immersive experience int
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Reyment/InnovateHub.git
+   git clone git@github.com:Reyment/Real-Estate-Website.git
    
 3. Navigate to the project directory:
 	cd your-landing-page
