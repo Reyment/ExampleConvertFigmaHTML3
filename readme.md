@@ -1,6 +1,6 @@
 
 
-# InnovateHub Landing Page
+# Real Estate Website Landing Page
 
 Welcome to My Real Estate Website Landing Page! Explore the world of real estate with us and discover your dream property.
 
